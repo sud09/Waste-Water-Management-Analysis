@@ -1,0 +1,11 @@
+PlantID,name,Location,Capacity
+1,San Francisco Treatment Plant,"San Francisco, CA ",100 million gallons per day
+2,Oakland Treatment Plant,"Oakland, CA",50 million gallons per day
+3,Sacramento Treatment Plant,"Sacramento, CA",25 million gallons per day
+4,Los Angeles Treatment Plant,"Los Angeles, CA",150 million gallons per day
+5,San Diego Treatment Plant ,"San Diego, CA ",100 million gallons per day
+6,Phoenix Treatment Plant,"Phoenix, AZ",75 million gallons per day
+7,Denver Treatment Plant,"Denver, CO",50 million gallons per day
+8,Minneapolis Treatment Plant,"Minneapolis, MN",25 million gallons per day
+9,Chicago Treatment Plant,"Chicago, IL",150 million gallons per day
+10,New York Treatment Plant,"New York, NY ",100 million gallons per day
